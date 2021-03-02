@@ -1,0 +1,16 @@
+#import <HeartHealth/HKHRCardioFitnessFooter.h>
+#import <HeartHealth/HKHRCardioFitnessBridgeSettings.h>
+#import <HeartHealth/HKHRCardioFitnessWatchSettings.h>
+#import <HeartHealth/HKHRCardioFitnessNotificationSettingsFactory.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsClientSignalSource.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsDailyEventDataSource.h>
+#import <HeartHealth/HKHRCardioFitnessOnboardingStatus.h>
+#import <HeartHealth/HKHRCardioFitnessStore.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsDaemonSignalSource.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsResult.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsManager.h>
+#import <HeartHealth/HKHRCardioFitnessFeatureStatusManager.h>
+#import <HeartHealth/HKHRCardioFitnessOnboardingFlowManager.h>
+#import <HeartHealth/_HKHeartSettingsUtilities.h>
+#import <HeartHealth/HKHRCardioFitnessAnalyticsSignalSource.h>
+#import <HeartHealth/HKHRCardioFitnessNotificationStatus.h>
